@@ -1,0 +1,72 @@
+/*.screen-2__features__item{*/
+/*    transition: all .5s;*/
+/*    cursor: pointer;*/
+/*}*/
+/*.screen-2__features__item:hover{*/
+/*    transform: scale(1.1);*/
+/*    border-color: #fff;*/
+/*}*/
+.infoCard_hover:hover{
+    transform: scale(1.1);
+    transition: all .5s;
+    border-color: black;
+}
+
+.card_hover:hover{
+    transform: scale(1.1);
+    transition: all .5s;
+    border-color: #fff;
+}
+
+.img_hover{
+    transition: all .3s;
+}
+
+.img_hover:hover{
+    transform: rotate(-360deg);
+    transition: all .3s;
+}
+
+.input_hover{
+    width: 300px;
+    height: 62px;
+    box-sizing:border-box;
+    padding:0 20px;
+    margin-left:15%;
+    margin-top:15%;
+    outline:none;
+    opacity:0.8;
+    border:0.5px solid #000000;
+    background:#eee;
+    font-size:14px;
+    transition: all .5s;
+}
+
+
+.input_hover:hover{
+    transition: all .5s;
+    width: 500px;
+}
+
+
+.cool-link::after{
+    content:'';
+    display: block;
+    width:0;
+    height: 3px;
+    background: #4D6EE3;
+    transition: all .4s;
+}
+.cool-link:hover::after{
+    width:100%;
+    transition: all .4s;
+    transform: scale(1.1);
+}
+
+.cool-link{
+    transition: all .2s ease-in-out;
+}
+
+.cool-link:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,26 @@
+Week 1
+The project team formed. I set up the Jira account with my teammates in the lab. We talked about the backgorund and epics of the project in th team meeting. We haven't work out the user stories of epics to choose and the more detailed design of the project. The issue causing these problems is that we do not have enough time after forming the team in Week1. I will continue to work on the proposal with my teammates next week.
+
+Week 2
+We planned to work on the epics and the struncture design of the project in the end of last week. I completed the part of introducing the backgound and aim of the project in the proposal. The work of whe whole team is conducted as planned. I will mainly work on designing the database of the project and continue to imrpove the proposal next week.
+
+Week 3
+I completed the Gantt Chart and improved some epics in the project proposal I also configured the backend database for the project this week. In next week, I am going to complete the register and login function in backend with my teammates. I will also complete some other functionalities if there is enough time.
+
+Week4
+I completed the backend for login, logout and register functions. I will continue to work on the backend for uploading and search functions.
+
+Week 5
+I completed the backend coding for uploading properties, searching function and editing property info. I worked with Hongyin who works on the frontend to make the connection between frontend and backend of the above functionalities works. In the next week, I will work on the backend for the booking function and will fix bugs if there is any.
+
+Week 6
+I completed the backend part for commenting and booking functionalities. I also fix the bugs found by other teammates so that the functionality can meet the requirement. I will continue to work on fixing the bugs in the backend next week.
+
+Week 7
+I helped to fix the bugs caused by the backend last week. Besides, I completed the function of comparing price in the backend. In the following week, I plan to complete all the functions in the backend and continue to fix bugs if there is any.
+
+Week 8
+I fixed bugs in the functions of accepting booking and checking booking history in the backend. I plan to work on the project report and prepare for the final demonstration in the next week.
+
+Week 9 & Week 10
+I add some sample data to the project database for demonstration and final submission. I also completed the project reports with my teammates.

@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/backend/static/build/static/css/main.660c7836.chunk.css",
+    "main.js": "/backend/static/build/static/js/main.12830f4d.chunk.js",
+    "main.js.map": "/backend/static/build/static/js/main.12830f4d.chunk.js.map",
+    "runtime-main.js": "/backend/static/build/static/js/runtime-main.e315c88c.js",
+    "runtime-main.js.map": "/backend/static/build/static/js/runtime-main.e315c88c.js.map",
+    "static/css/2.70bf5c3c.chunk.css": "/backend/static/build/static/css/2.70bf5c3c.chunk.css",
+    "static/js/2.80f2c5bb.chunk.js": "/backend/static/build/static/js/2.80f2c5bb.chunk.js",
+    "static/js/2.80f2c5bb.chunk.js.map": "/backend/static/build/static/js/2.80f2c5bb.chunk.js.map",
+    "index.html": "/backend/static/build/index.html",
+    "precache-manifest.dc41efb98cc50a796698bad38a09448c.js": "/backend/static/build/precache-manifest.dc41efb98cc50a796698bad38a09448c.js",
+    "service-worker.js": "/backend/static/build/service-worker.js",
+    "static/css/2.70bf5c3c.chunk.css.map": "/backend/static/build/static/css/2.70bf5c3c.chunk.css.map",
+    "static/css/main.660c7836.chunk.css.map": "/backend/static/build/static/css/main.660c7836.chunk.css.map",
+    "static/js/2.80f2c5bb.chunk.js.LICENSE.txt": "/backend/static/build/static/js/2.80f2c5bb.chunk.js.LICENSE.txt",
+    "static/media/Picture1.png": "/backend/static/build/static/media/Picture1.ec274d7c.png",
+    "static/media/bond.svg": "/backend/static/build/static/media/bond.2d659bbd.svg",
+    "static/media/car.png": "/backend/static/build/static/media/car.631bc0f9.png",
+    "static/media/cash.svg": "/backend/static/build/static/media/cash.8ce9e07d.svg",
+    "static/media/house.png": "/backend/static/build/static/media/house.a8f90ce7.png",
+    "static/media/image1.jpg": "/backend/static/build/static/media/image1.ceac3efd.jpg",
+    "static/media/image2.jpeg": "/backend/static/build/static/media/image2.2f857027.jpeg",
+    "static/media/logo.svg": "/backend/static/build/static/media/logo.5d5d9eef.svg",
+    "static/media/map.svg": "/backend/static/build/static/media/map.0f2df318.svg",
+    "static/media/owner.png": "/backend/static/build/static/media/owner.09599169.png",
+    "static/media/pet.png": "/backend/static/build/static/media/pet.f0d91087.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e315c88c.js",
+    "static/css/2.70bf5c3c.chunk.css",
+    "static/js/2.80f2c5bb.chunk.js",
+    "static/css/main.660c7836.chunk.css",
+    "static/js/main.12830f4d.chunk.js"
+  ]
+}

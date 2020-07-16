@@ -1,0 +1,13 @@
+! version = 2.0
+
++ (hello|hi|how are you?|Hello|Hi)
+- Hello, human!
+- Good Day mate!
+- All good!
+
++ (can you search suburb|please search suburb|search suburb)*
+- searching suburb <star>
+
+
++ (book|can you book|please book)
+- property booked

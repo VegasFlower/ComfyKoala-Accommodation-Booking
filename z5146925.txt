@@ -1,0 +1,30 @@
+week 1
+Group formed. We decided our group project, group name and group mission. And we created our Jira accounts. 
+
+week 2
+We had a group meeting on Monday. We discussed our proposal, and assigned parts of proposal to group members. 
+And we finished most of them on Friday.
+
+week 3
+completed our proposal. Learned react. 
+
+Week 4
+Built some form for detail page and accommodation page.
+
+Week 5
+Added some functions on the detail page, such as reviews.
+
+Week 6
+Added some css on the website.
+
+week 7 
+completed chatroom framework.
+
+week 8 
+completed the front-end chatroom, only need to link the backend and the database to use it.
+
+week 9 
+Cooperate with others to write a report.
+
+week 10
+Cooperate with others to write a report, and prepare for presetation.

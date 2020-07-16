@@ -1,0 +1,23 @@
+Week 1
+We had a group meeting exchanged our experience and strength. we decided to do the accomdation application and the application will 
+be designed to Student user only.
+
+Week 2
+During our group meeting on monday, we started with epics and user stories. 
+I choose to work on frontend and about to work on the system architect and prototype.
+
+Week 3
+I finished the Electronic prototype and architect,we finished the demo of propsal.
+
+Week 4
+Constructed project structure and build frontend static page
+
+Week 5
+fully connected and interacted with backend,finished login,register,logout, search, upload information, upload image, display and management function 
+
+Week 6
+add alert funtion
+
+week 7
+basic css
+

@@ -1,0 +1,39 @@
+week1
+We've met the group member and made final decision on project topic. Since
+it's Friday, we roughly talked about the technical background of our project.
+Jira and group chat on social media are all set up, which is a good start.
+
+week2
+We held a stand-up meeting on Monday, made discussion about what programming
+language to use and how will the work be assigned. A sketchy timeline will
+reflect our progress. We came up with the idea that to aim at student as our
+customer, basically, we'll be doing a accomodation system for students only.
+After this, everyone will be starting to write user stories for their assigned
+epic story.
+
+week3
+Gantt chart, data flow diagram and system interface of the project are finished.
+During the lab, we discussed about the basic code structure of the project. Besides,
+the database of the system had been created and tested.
+I was keeping on learning React, which will be used in the forntend implementations.
+
+week4
+Me and Zoey were working on front end together, we made initial draft about detail
+page of accommodation.
+
+week5
+Added some features to the detailpage. Including image slider, material design icon,
+and date range picker.
+
+week7
+Set up backend with new database, did some modification to the frontend.
+
+week8
+The project is nearly done, did some testing work, most tasks are finished and codes are running well.
+
+week9
+Start to wirte final report of our project, finish writing overview, some justifications of module, and
+descriptions of all functionalities.
+
+week10
+Final product report is almost finished。

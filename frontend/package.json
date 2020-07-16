@@ -1,0 +1,67 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.5",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.45",
+    "@material-ui/styles": "^4.9.6",
+    "@progress/kendo-react-buttons": "^3.12.0",
+    "@progress/kendo-react-conversational-ui": "^3.12.0",
+    "@progress/kendo-react-intl": "^3.12.0",
+    "@progress/kendo-theme-bootstrap": "^4.13.0",
+    "@progress/kendo-theme-material": "^3.12.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.1",
+    "bootstrap": "^4.4.1",
+    "filepond": "^4.13.0",
+    "filepond-plugin-image-exif-orientation": "^1.0.6",
+    "filepond-plugin-image-preview": "^4.6.1",
+    "js-cookie": "^2.2.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.0",
+    "react-alert": "^7.0.0",
+    "react-alert-template-basic": "^1.0.0",
+    "react-dom": "^16.13.0",
+    "react-filepond": "^7.0.1",
+    "react-redux": "^7.1.3",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "react-transition-group": "^4.3.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "rivescript": "^2.1.0",
+    "stream-chat": "^1.7.0",
+    "stream-chat-react": "^0.11.6",
+    "styled-components": "^5.0.1"
+  },
+  "homepage": "/backend/static/build",
+  "scripts": {
+    "start": "react-scripts start",
+    "prebuild": "rm -rf ../backend/templates/index.html && rm -rf ../backend/static/build",
+    "build": "react-scripts build",
+    "postbuild": "mv build/index.html ../backend/templates/ &&  mv build ../backend/static/",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

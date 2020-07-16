@@ -1,0 +1,29 @@
+Week 1
+We formed a group and discussed about our experience and strength. We decided to do Accommodation as our project. I created Jira account for the group and invited all the team members.
+
+Week 2
+During our group meeting on monday, we started with epics and user stories. I wrote the user story for property provider and added all the user stories to Jira. I also created the epics on Jira and organized all of the user stories.
+
+Week 3
+I add description to each wireframe screen, formatting and finalising the proposal PDF. 
+
+Week 4
+Working on sprint 1, working on the backend functions.
+
+Week 5
+I am working on the upload api for the backend.
+
+Week 6
+Our group has decided to add a chatroom function to our webiste, I am researching on how to create a chatroom for users.
+
+Week 7
+I have made a working demo for the chatroom function.
+
+Week 8
+I am trying to identify bugs in the chatroom backend, and researching on how to get chatroom frontend to connect with the backend.
+
+Week 9
+I worked on connecting frontend with backend for chatroom, but we decided to drop this function due to unable to finish on time.
+
+Week 10
+I am working on the final report, researching third party libraries.
