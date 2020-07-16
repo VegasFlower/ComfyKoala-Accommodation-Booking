@@ -16,7 +16,7 @@ dnspython==1.16.0
 dominate==2.3.5
 enum-compat==0.0.3
 falcon==2.0.0
-Flask==0.11.1
+Flask==1.0
 Flask-Bootstrap==3.3.7.1
 Flask-Cors==3.0.6
 Flask-Login==0.4.1
