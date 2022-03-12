@@ -45,7 +45,7 @@ more-itertools==7.2.0
 numpy==1.17.2
 packaging==20.3
 pandas==0.25.1
-Pillow==5.3.0
+Pillow==9.0.1
 pluggy==0.13.1
 psycopg2-binary==2.8.4
 py==1.8.1
